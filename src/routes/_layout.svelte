@@ -1,6 +1,7 @@
 <script>
 	import Nav from '../components/Nav.svelte';
 	import GlobalStyle from "../components/GlobalStyle.svelte";
+import Headertailwind from '../components/headertailwind.svelte';
 
 	export let segment;
 </script>
@@ -24,7 +25,7 @@
 </style>
 
 
-<header>  <Nav {segment}/> <!-- barra de navegacion -->  </header>
+<header> 	 <Nav {segment}/>   </header>
 
 
 <main>
