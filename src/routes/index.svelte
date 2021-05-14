@@ -48,5 +48,3 @@ import Login from "../components/Login.svelte";
 </Box>
 
 </center>
-
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>

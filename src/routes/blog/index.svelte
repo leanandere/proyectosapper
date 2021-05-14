@@ -7,6 +7,7 @@
 </script>
 
 <script>
+import Cv from "../../components/Cv.svelte";
 import Price from "../../components/Price.svelte";
 
 	export let posts;
@@ -23,4 +24,4 @@ import Price from "../../components/Price.svelte";
 	<title>Blog</title>
 </svelte:head>
 
-<Price></Price>
+<Cv></Cv>

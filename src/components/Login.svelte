@@ -47,14 +47,14 @@ import CustomButton from "./CustomButton.svelte";
   
     .input {
       outline: none;
-      border: none;
+      border: limegreen;
       overflow: hidden;
       margin: 0;
       width: 100%;
-      padding: 0.25rem 0;
+      padding: 0.50rem 0;
       background: none;
       color: white;
-      font-size: 1.2em;
+      font-size: 0.9em;
       font-weight: bold;
       transition: border 500ms;
     }
