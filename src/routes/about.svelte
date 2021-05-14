@@ -1,6 +1,7 @@
 <script>
 
 import Carrousel from '../components/Carrousel.svelte';
+import Inputs from '../components/Inputs.svelte';
 
 </script>
 
@@ -8,4 +9,6 @@ import Carrousel from '../components/Carrousel.svelte';
 	<title>About</title>
 </svelte:head>
 
-<Carrousel> </Carrousel>
+<Carrousel></Carrousel>
+
+<Inputs></Inputs>
