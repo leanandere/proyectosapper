@@ -25,3 +25,4 @@ import Price from "../../components/Price.svelte";
 </svelte:head>
 
 <Cv></Cv>
+

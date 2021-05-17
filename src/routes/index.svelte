@@ -1,6 +1,8 @@
 <script>
 import Box from "../components/Box.svelte";
 import Login from "../components/Login.svelte";
+import Login2 from "../components/Login2.svelte";
+import Login3 from "../components/Login3.svelte";
 
 </script>
 <style lang="postcss">
@@ -37,14 +39,18 @@ import Login from "../components/Login.svelte";
 
 <center>
 <Box>
-<h1>Great successsssssss!! </h1>
+<h1>INGRESO ! </h1>
 <figure>
-	<img alt='Success Kid' src='successkid.jpg'>
-	<figcaption>Have fun with Sapper!</figcaption>
+	<img alt='Success Kid' src='26824.jpg'>
+	<figcaption>Ingrese aqui : </figcaption>
 </figure>	
-
 <Login></Login>
-
 </Box>
+
+<Box>
+<Login2></Login2>
+</Box>
+
+<Login3></Login3>
 
 </center>
